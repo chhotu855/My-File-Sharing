@@ -1,1 +1,1 @@
-![Uploading image.png…]()
+The File Sharing App is designed to provide a simple and efficient way to upload, store, and share files. Users can submit files,images,document(etc) through a web interface, and the application will store the files in a database while providing a unique link for downloading.
